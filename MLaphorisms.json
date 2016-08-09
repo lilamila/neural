@@ -1,0 +1,31 @@
+{"quote": "ruminating anxious thoughts are the brain getting caught in a negative infinite recursion. will never hit the base case.",
+
+"quote": "the average of the squares is greater than the square of the averages",
+
+"quote":"sklearn.feature_selection.thresholdvariance - gets rid of features of low variance, much like not paying attention the the average as taleb asserts in antifragile",
+
+"quote":"Don't get caught in a local maxima. Have growth mindset.",
+
+"quote":"Optimism and pessimism are like the bias/variance parameters of your mind.",
+
+"quote":"How quickly you learn, often has little to do with how well you train your dataset
+Best to train you model with a learning rate decay. Re: Momentum and Learning Rate.",
+
+
+"quote":"restarting your ipynb kernel is like your mind doing yoga",
+
+"quote":"Premature optimization is the root of all evil. (anxiety?)",
+
+"quote":"Is math the anti-god? It's the anti-consciousness if you define consciousness as a magic stroke of insight, or rather the ability of the agent to jump outside of itself as an actor within a system. Non computable numbers don't have any use in mathematics.",
+
+"quote":"The higher level of chunking, the more logic you implicitly prune from the lower levels. (Thought about this while learning boosting/bagging)",
+
+"quote":"what would quantum blockchains look like? isn’t that
+if quantum computing is rather a mindset overlaid on entangled probabilities (gleick, the information - chapter 13(?)) and blockchains are commoditized (immutable) trust, than can quantum blockchains be abstracted to social capital, which can arguably be interchanged with love/trust?
+blockchain = commoditized trust
+quantum = mindset of entangled probabilities",
+
+"quote":"tl;dr - Assessing other programmers in general is hard; assessing ourselves is harder. This creates a situation where the competent can't be entirely sure of themselves and the incompetent can misjudge others. This can lead to situations of social disapproval even for competent or excellent programmers.
+ The author hypothesizes that women have less tolerance for social disapproval and therefore are more likely to avoid programming as a career.
+d/dx(tl;dr) - Programmers can be assholes to each other. Maybe women don't dig that so much?"
+}
