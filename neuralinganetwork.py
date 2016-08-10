@@ -15,7 +15,7 @@ def costFunctionPrime(self, X, y):
     delta3 = np.multiply(-y-self.yHat), self.sigmoidPrime(self.z3))
 	dJdW2 = np.dot(self.a2.T, delta3)
 
-take derivative across synapses
+# take derivative across synapses
 
 
 cost1 = NN.costFunction(X,y)
